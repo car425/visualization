@@ -9,7 +9,7 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 
-    ![alt text](/Users/christineromano/DSI_Course/DSI_Visualization/visualization/02_activities/assignments/Files_for_Assignment_3/Dogs_Cats_Toronto_2015_to_2025.png)   ![alt text](/Users/christineromano/DSI_Course/DSI_Visualization/visualization/02_activities/assignments/Files_for_Assignment_3/Pets_Toronto_2021.png)
+    ![alt text](Dogs_Cats_Toronto_2015_to_2025.png)   ![alt text](Pets_Toronto_2021.png)
 
     Alt Text for Visualization 1, "Dogs_Cats_Toronto_2015_to_2025.png": Data on numbers of registered cats and dogs in Toronto are plotted for the years 2015 to 2025.  Information on dogs is in blue, and information on cats is in orange.  The values plotted are given in the Table Below:
 
